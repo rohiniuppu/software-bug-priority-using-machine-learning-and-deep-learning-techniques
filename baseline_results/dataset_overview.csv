@@ -1,0 +1,10 @@
+Measure,Value
+Rows in source,22724.0
+Missing summaries,0.0
+Missing priorities,0.0
+Duplicate Bug IDs,0.0
+Unique priorities,5.0
+Summary characters (min),1.0
+Summary characters (median),61.0
+Summary characters (max),255.0
+Rows used for modeling,22724.0

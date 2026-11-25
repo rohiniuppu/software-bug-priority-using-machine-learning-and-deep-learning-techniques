@@ -1,0 +1,17 @@
+{
+  "input": "bugs-2026-10-15.csv",
+  "folds": 5,
+  "test_size": 0.2,
+  "seed": 42,
+  "output_dir": "deep_learning_results_run_20261116_1512",
+  "epochs": 8,
+  "batch_size": 128,
+  "max_vocab_size": 30000,
+  "max_length": 64,
+  "embedding_dim": 128,
+  "hidden_dim": 128,
+  "dropout": 0.3,
+  "learning_rate": 0.001,
+  "model_type": "rnn",
+  "device": "cpu"
+}

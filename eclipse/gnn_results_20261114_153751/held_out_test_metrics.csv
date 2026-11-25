@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted Precision,Weighted Recall,Weighted F1
+GNN (text/component similarity graph),0.3355,0.25262543863519604,0.5224592650457313,0.19700733054696604,0.7819947328935526,0.3355,0.4156155284902865

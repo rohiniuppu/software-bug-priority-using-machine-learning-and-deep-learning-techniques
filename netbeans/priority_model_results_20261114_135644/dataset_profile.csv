@@ -1,0 +1,14 @@
+Column,Data Type,Missing Count,Missing Percent,Unique Values
+Bug ID,int64,0,0.0,5510
+Summary,str,0,0.0,5174
+Keywords,str,4958,89.98185117967333,80
+Product,str,0,0.0,8
+Component,str,0,0.0,20
+OS,str,0,0.0,19
+Opened,str,0,0.0,5510
+Severity,str,0,0.0,3
+Priority,str,0,0.0,4
+Status,str,0,0.0,3
+Changed,str,0,0.0,5351
+Number of Comments,int64,0,0.0,44
+Source File,str,0,0.0,23

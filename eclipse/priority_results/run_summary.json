@@ -1,0 +1,31 @@
+{
+  "input": "C:\\Users\\rohin\\OneDrive\\Desktop\\sbp_urop\\eclipse\\jdt_top20_500.csv",
+  "rows": 10000,
+  "train_rows": 8000,
+  "test_rows": 2000,
+  "target": "Priority",
+  "labels": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5"
+  ],
+  "seed": 42,
+  "test_size": 0.2,
+  "features": [
+    "Summary",
+    "Description",
+    "Severity",
+    "Component"
+  ],
+  "excluded_columns": [
+    "Bug_ID",
+    "Opened",
+    "Assignee"
+  ],
+  "workflow": "traditional_ml",
+  "folds": 5,
+  "best_model_by_cv_macro_f1": "linear_svm",
+  "best_cv_macro_f1": 0.2665632603464451
+}

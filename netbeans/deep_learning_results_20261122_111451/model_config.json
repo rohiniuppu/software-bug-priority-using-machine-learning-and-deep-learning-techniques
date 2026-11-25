@@ -1,0 +1,18 @@
+{
+  "input": "C:\\Users\\rohin\\OneDrive\\Desktop\\sbp_urop\\netbeans\\merged_bug_reports.csv",
+  "output_dir": "C:\\Users\\rohin\\OneDrive\\Desktop\\sbp_urop\\netbeans\\deep_learning_results",
+  "test_size": 0.2,
+  "seed": 42,
+  "epochs": 30,
+  "batch_size": 128,
+  "max_vocab_size": 30000,
+  "max_length": 128,
+  "embedding_dim": 128,
+  "hidden_dim": 128,
+  "dropout": 0.3,
+  "learning_rate": 0.001,
+  "neighbors": 5,
+  "text_components": 96,
+  "metadata_features": 64,
+  "text_only": true
+}

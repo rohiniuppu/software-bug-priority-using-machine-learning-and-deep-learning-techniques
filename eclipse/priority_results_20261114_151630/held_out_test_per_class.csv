@@ -1,0 +1,26 @@
+Model,Split,Priority,Precision,Recall,F1,Support
+majority_baseline,held-out test,P1,0.0,0.0,0.0,95.0
+majority_baseline,held-out test,P2,0.0,0.0,0.0,245.0
+majority_baseline,held-out test,P3,0.825,1.0,0.9041095890410958,1650.0
+majority_baseline,held-out test,P4,0.0,0.0,0.0,6.0
+majority_baseline,held-out test,P5,0.0,0.0,0.0,4.0
+decision_tree,held-out test,P1,0.21904761904761905,0.24210526315789474,0.23,95.0
+decision_tree,held-out test,P2,0.2833333333333333,0.3469387755102041,0.3119266055045872,245.0
+decision_tree,held-out test,P3,0.8746835443037975,0.8375757575757575,0.8557275541795666,1650.0
+decision_tree,held-out test,P4,0.14285714285714285,0.16666666666666666,0.15384615384615385,6.0
+decision_tree,held-out test,P5,0.0,0.0,0.0,4.0
+random_forest,held-out test,P1,0.7777777777777778,0.07368421052631578,0.1346153846153846,95.0
+random_forest,held-out test,P2,0.7777777777777778,0.02857142857142857,0.05511811023622047,245.0
+random_forest,held-out test,P3,0.8314833501513622,0.9987878787878788,0.9074889867841409,1650.0
+random_forest,held-out test,P4,0.0,0.0,0.0,6.0
+random_forest,held-out test,P5,0.0,0.0,0.0,4.0
+linear_svm,held-out test,P1,0.323943661971831,0.24210526315789474,0.27710843373493976,95.0
+linear_svm,held-out test,P2,0.3988439306358382,0.2816326530612245,0.33014354066985646,245.0
+linear_svm,held-out test,P3,0.8707289293849658,0.9266666666666666,0.8978273634762184,1650.0
+linear_svm,held-out test,P4,0.0,0.0,0.0,6.0
+linear_svm,held-out test,P5,0.0,0.0,0.0,4.0
+naive_bayes,held-out test,P1,1.0,0.010526315789473684,0.020833333333333332,95.0
+naive_bayes,held-out test,P2,1.0,0.004081632653061225,0.008130081300813009,245.0
+naive_bayes,held-out test,P3,0.8258258258258259,1.0,0.9046052631578947,1650.0
+naive_bayes,held-out test,P4,0.0,0.0,0.0,6.0
+naive_bayes,held-out test,P5,0.0,0.0,0.0,4.0

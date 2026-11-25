@@ -1,0 +1,17 @@
+{
+  "input":"C:\\Users\\rohin\\OneDrive\\Desktop\\sbp_urop\\netbeans\\merged_bug_reports.csv",
+  "rows":5510,
+  "train_rows":4408,
+  "test_rows":1102,
+  "labels":[
+    "P1",
+    "P2",
+    "P3",
+    "P4"
+  ],
+  "seed":42,
+  "folds":5,
+  "test_size":0.2,
+  "feature_preset":"summary_component",
+  "dl_epochs":30
+}

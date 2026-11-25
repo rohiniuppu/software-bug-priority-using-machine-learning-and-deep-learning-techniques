@@ -1,0 +1,19 @@
+{
+  "input": "bugs-2026-10-15.csv",
+  "folds": 5,
+  "test_size": 0.2,
+  "seed": 42,
+  "output_dir": "deep_learning_results_run_20261116_1512",
+  "epochs": 30,
+  "neighbors": 5,
+  "text_components": 128,
+  "metadata_features": 64,
+  "hidden_dim": 128,
+  "dropout": 0.4,
+  "learning_rate": 0.003,
+  "model_type": "gnn",
+  "device": "cpu",
+  "actual_text_components": 128,
+  "graph_edges": 148689,
+  "graph_definition": "same-component TF-IDF neighbors; test nodes only receive train-node edges"
+}

@@ -1,0 +1,2 @@
+Best parameters
+"{'classifier__C': 0.1, 'classifier__class_weight_factors': (64, 4, 1, 8, 2), 'tfidf__ngram_range': (1, 2)}"

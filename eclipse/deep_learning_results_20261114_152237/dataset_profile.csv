@@ -1,0 +1,9 @@
+Column,Data Type,Missing Count,Missing Percent,Unique Values
+Bug_ID,int64,0,0.0,10000
+Summary,str,0,0.0,9956
+Description,str,29,0.29,9877
+Priority,str,0,0.0,5
+Severity,str,0,0.0,7
+Component,str,0,0.0,6
+Opened,str,0,0.0,9990
+Assignee,str,0,0.0,20

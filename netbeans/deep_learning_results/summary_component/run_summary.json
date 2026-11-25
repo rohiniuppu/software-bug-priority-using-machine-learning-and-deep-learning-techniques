@@ -1,0 +1,42 @@
+{
+  "input": "C:\\Users\\rohin\\OneDrive\\Desktop\\sbp_urop\\netbeans\\merged_bug_reports.csv",
+  "rows": 5510,
+  "train_rows": 4408,
+  "test_rows": 1102,
+  "target": "Priority",
+  "labels": [
+    "P1",
+    "P2",
+    "P3",
+    "P4"
+  ],
+  "seed": 42,
+  "device": "cpu",
+  "feature_preset": "summary_component",
+  "experiment_name": "summary_component",
+  "feature_text": [
+    "Summary",
+    "Component"
+  ],
+  "graph_metadata": [
+    "Component"
+  ],
+  "excluded_columns": [
+    "Bug ID",
+    "Keywords",
+    "Product",
+    "OS",
+    "Opened",
+    "Severity",
+    "Status",
+    "Changed",
+    "Number of Comments",
+    "Source File"
+  ],
+  "graph_edges": 38650,
+  "models": [
+    "RNN",
+    "LSTM",
+    "GNN"
+  ]
+}
